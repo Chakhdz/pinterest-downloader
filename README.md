@@ -18,6 +18,8 @@ Fork of [limkokhole/pinterest-downloader](https://github.com/limkokhole/pinteres
 
 **CHK** is Carlos Hernandez ([Chakhdz](https://github.com/Chakhdz)), a designer and PhD researcher at FAYD. He works on visual culture and museum collections.
 
+Site: [chakhernandez.art](https://www.chakhernandez.art)
+
 - Engine: limkokhole — `pinterest-downloader.py`
 - GUI: CHK — `pinterest_gui.py`, `PINDOWNLOADER.command`
 
