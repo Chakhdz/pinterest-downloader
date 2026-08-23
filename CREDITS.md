@@ -6,3 +6,5 @@
 - GUI (Tk / `PINDOWNLOADER.command`): CHK.
 
 **CHK** is Carlos Hernandez ([Chakhdz](https://github.com/Chakhdz)), a designer and PhD researcher at FAYD. He works on visual culture and museum collections.
+
+Site: [chakhernandez.art](https://www.chakhernandez.art)
