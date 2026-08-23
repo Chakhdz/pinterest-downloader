@@ -1,27 +1,22 @@
-# Pinterest Downloader (Mac & Windows GUI)
+# Pinterest Visor
 
-Python **Pinterest board downloader** with a local visualizer. Download pins, boards, and sections. Fork of [limkokhole/pinterest-downloader](https://github.com/limkokhole/pinterest-downloader) (MIT, © 2020 limkokhole@gmail.com).
+Desktop **Pinterest viewer / downloader** for Mac and Windows (Tk GUI). Not the original CLI-only project.
 
-**Keywords:** Pinterest downloader, Pinterest board download, Python Pinterest scraper, Mac GUI, Tkinter, pin.it, bulk image download.
+Fork of [limkokhole/pinterest-downloader](https://github.com/limkokhole/pinterest-downloader) (MIT, © 2020 limkokhole@gmail.com). That repo is the engine. This one is the visualizer.
 
-## Who made this copy
+**Name:** Pinterest Visor (CHK). Search: `pinterest visor`, `pinterest viewer mac`.
 
-CHK — Carlos Hernandez ([Chakhdz](https://github.com/Chakhdz)). Designer and doctoral researcher (visual culture / museums, FAYD). This fork adds a desktop visualizer so you open a window instead of the CLI.
+## Who
 
-- Engine (CLI): limkokhole — `pinterest-downloader.py`
-- Visualizer (Tk): CHK — `pinterest_gui.py`, `PINDOWNLOADER.command` (Mac), `PINDOWNLOADER.bat` (Windows)
+CHK — Carlos Hernandez ([Chakhdz](https://github.com/Chakhdz)). Designer and doctoral researcher (visual culture / museums, FAYD).
 
-See [CREDITS.md](CREDITS.md) and `LICENSE`.
+- Engine: limkokhole — `pinterest-downloader.py`
+- Visor: CHK — `pinterest_gui.py`, `PINDOWNLOADER.command`
 
-## Open the visualizer
+See [CREDITS.md](CREDITS.md).
 
-Mac: double-click `PINDOWNLOADER.command`.  
-Windows: `PINDOWNLOADER.bat` or build the exe (`LEEME_WINDOWS.md`).
+## Open
 
-Do **not** commit the `images/` folder (downloaded pins stay on your disk).
+Mac: `PINDOWNLOADER.command`. Windows: `PINDOWNLOADER.bat`. Do not commit `images/`.
 
-## Topics
-
-`pinterest` · `pinterest-downloader` · `python` · `tkinter` · `bulk-download` · `macos`
-
-Upstream usage (username/board/section, cookies, proxies): [limkokhole README](https://github.com/limkokhole/pinterest-downloader#readme).
+To rename this GitHub repo to `pinterest-visor`: Settings → Repository name (keeps the fork link).
