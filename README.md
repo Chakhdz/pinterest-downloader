@@ -1,3 +1,5 @@
+> **Forked from** [limkokhole/pinterest-downloader](https://github.com/limkokhole/pinterest-downloader)
+
 # Pinterest GUI Downloader
 
 Desktop **Pinterest GUI Downloader** for Mac and Windows (Tk). Not the original CLI-only project.
@@ -14,7 +16,7 @@ Fork of [limkokhole/pinterest-downloader](https://github.com/limkokhole/pinteres
 
 ## Who
 
-CHK — Carlos Hernandez ([Chakhdz](https://github.com/Chakhdz)). Designer and doctoral researcher (visual culture / museums, FAYD).
+**CHK** is Carlos Hernandez ([Chakhdz](https://github.com/Chakhdz)), a designer and PhD researcher at FAYD. He works on visual culture and museum collections.
 
 - Engine: limkokhole — `pinterest-downloader.py`
 - GUI: CHK — `pinterest_gui.py`, `PINDOWNLOADER.command`
